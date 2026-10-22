@@ -35,10 +35,13 @@ Gosto de entender como as aplicações funcionam, investigar falhas e transforma
 
 ## Aprofundando conhecimentos
 
-- Active Directory e autenticação Kerberos.
-- Metodologias de Pentest e operações de Red Team.
-- Segurança de aplicações com IA e riscos envolvendo LLMs.
-- CTFs, laboratórios e pesquisa de vulnerabilidades.
+- **[OWASP Top 10](https://owasp.org/www-project-top-ten/):** estudo dos principais riscos de segurança em aplicações web, com foco na identificação de vulnerabilidades, análise de impacto e medidas de prevenção.
+- **[OWASP WSTG](https://owasp.org/www-project-web-security-testing-guide/):** referência para estruturar testes de segurança web, incluindo autenticação, autorização, sessões e validação de entradas.
+- **[NIST SP 800-115](https://csrc.nist.gov/pubs/sp/800/115/final):** planejamento e execução de avaliações técnicas de segurança, análise dos achados e recomendações de mitigação.
+- **Active Directory e Kerberos:** estudo de autenticação, permissões e caminhos de ataque em ambientes de laboratório.
+- **Pentest e Red Team:** aprofundamento em reconhecimento, enumeração, exploração e documentação de evidências.
+- **Segurança em IA e LLMs:** estudo de prompt injection, exposição de informações e riscos em aplicações que integram modelos de linguagem.
+- **CTFs e laboratórios:** prática contínua de investigação e pesquisa de vulnerabilidades.
 
 ## Vamos conversar?
 
