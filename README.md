@@ -17,7 +17,61 @@ Reconhecimento, exploração, evidências e aprendizado contínuo.
 
 Olá! Sou **Yuri Martinez**, formado em **Cyber Security pela FIAP**, com foco em **Pentest e Segurança Ofensiva** e interesse em **Red Team**.
 
-Gosto de entender como as aplicações funcionam, investigar falhas e transformar descobertas técnicas em evidências claras. Meu aprendizado combina estudo, laboratórios e desafios práticos em plataformas como **Hack The Box** e **TryHackMe**.
+Minha experiência reúne **pentests web, mobile e de infraestrutura**, gestão de vulnerabilidades, segurança de endpoints e iniciativas de **GRC alinhadas à ISO/IEC 27001**. Gosto de investigar falhas e transformar descobertas técnicas em evidências claras e recomendações de correção.
+
+Complemento minha experiência profissional com estudo contínuo, laboratórios e desafios práticos no **Hack The Box** e no **[TryHackMe](https://tryhackme.com/p/yurimrds)**.
+
+## Experiência profissional
+
+### Yurax-IT Cibersegurança · Pentester
+**Jun/2022 — Jan/2026**
+
+Iniciei como Pentester Trainee e evoluí para a posição de Pentester, assumindo maior responsabilidade em projetos de Segurança Ofensiva.
+
+- Participação em pentests de aplicações **web, mobile e infraestrutura de rede**, com identificação, validação e análise de vulnerabilidades.
+- Uso de **OWASP Top 10, WSTG e NIST SP 800-115** como referências para testes web, além de **OWASP MASTG e MASVS** em avaliações mobile.
+- Reconhecimento, enumeração, análise manual e exploração controlada com ferramentas como Burp Suite, OpenVAS, Nmap, SQLMap e Metasploit.
+- Documentação de evidências, classificação de riscos e elaboração de relatórios com recomendações de mitigação.
+
+### Heimr · Analista de Segurança da Informação Júnior & Analista de TI Interna
+**Jan/2025 — Jul/2025**
+
+- Criação, implementação e manutenção de políticas e controles de segurança alinhados à **ISO/IEC 27001**, com apoio à auditoria e organização de evidências.
+- Administração do **CrowdStrike Falcon**, incluindo políticas de proteção, gestão de endpoints e análise de alertas e detecções.
+- Execução de pentests em aplicações web e infraestrutura, com documentação dos achados e recomendações de correção.
+- Gestão de identidades e acessos, recursos no Azure, ativos de TI e credenciais no 1Password.
+- Monitoramento de ambientes com **Zabbix e Grafana**.
+
+### NOMMAD · Analista de Segurança da Informação Júnior
+**Jul/2024 — Jan/2025**
+
+- Criação e implementação de políticas de Segurança da Informação baseadas na **ISO/IEC 27001:2022**, para a empresa e clientes.
+- Execução de pentests em aplicações web e infraestrutura.
+- Criação de políticas no CrowdStrike e monitoramento de alertas de hosts e servidores.
+- Atuação em resposta a incidentes, apoio ao NOC e processos de onboarding e offboarding.
+
+## Projetos e iniciativas · ISO/IEC 27001
+
+### Políticas e controles de segurança · NOMMAD e clientes
+
+Atuei na criação e implementação de políticas de Segurança da Informação baseadas na **ISO/IEC 27001:2022**, incluindo projetos para a NOMMAD e para o cliente **Machado Nunes**. O trabalho envolveu a estruturação de políticas e controles para apoiar a proteção dos ambientes e a gestão de riscos.
+
+### Implementação e apoio à auditoria · Heimr
+
+Participei da implementação de iniciativas alinhadas à **ISO/IEC 27001:2022**, com criação de políticas, implementação de controles e organização de evidências para apoio à auditoria. Essa atuação conectou governança e conformidade às atividades técnicas de proteção de endpoints, gestão de acessos e segurança da infraestrutura.
+
+## Certificações e cursos
+
+| Certificação ou curso | Instituição |
+| --- | --- |
+| ISO/IEC 27001:2022 Associate | SkillFront |
+| Red Hat System Administration (RH124) | Red Hat |
+| Cybersecurity Fundamentals | IBM |
+| Certified Information Security Officer | FIAP |
+| Cybersecurity Hacker Skills & Professional | FIAP |
+| Certified Penetration Testing Professional | FIAP |
+
+Outras formações listadas no meu LinkedIn: **Cyber Security 101 Certificate**, **Introdução ao Hacking e Pentest 2.0** e **Formação Social e Sustentabilidade**.
 
 ## Foco técnico
 
