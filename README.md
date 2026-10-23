@@ -64,6 +64,7 @@ Participei da implementação de iniciativas alinhadas à **ISO/IEC 27001:2022**
 
 | Certificação ou curso | Instituição |
 | --- | --- |
+| Certified Web Red Team Analyst (Web-RTA) | CyberWarFare Labs |
 | ISO/IEC 27001:2022 Associate | SkillFront |
 | Red Hat System Administration (RH124) | Red Hat |
 | Cybersecurity Fundamentals | IBM |
